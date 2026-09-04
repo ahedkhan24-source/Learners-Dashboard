@@ -37,3 +37,5 @@ The main objective of this project is to transform raw sales data into an intera
 ## 📷 Dashboard Preview
 
 The dashboard provides an executive-level overview of sales and performance metrics, making it easier for stakeholders to monitor business performance and make data-driven decisions.
+
+https://github.com/ahedkhan24-source/Learners-Dashboard/blob/main/Learners%20Dashboard%20Chart%20(2).png
